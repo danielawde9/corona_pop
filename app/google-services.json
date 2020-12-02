@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "805286810930",
+    "firebase_url": "https://corona-pop.firebaseio.com",
+    "project_id": "corona-pop",
+    "storage_bucket": "corona-pop.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:805286810930:android:fd85760ce39f65e7f5b32b",
+        "android_client_info": {
+          "package_name": "com.daniel.project.coronapop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "805286810930-qe2k0qh6vdagfje3i2kl5nddb2blsb4n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHKHapxDRrjrvZwopEfkifgSXcnomLGIg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "805286810930-qe2k0qh6vdagfje3i2kl5nddb2blsb4n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
